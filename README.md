@@ -1,7 +1,7 @@
 小程序名称：ITBooks
 ---
 小程序二维码：
-![image](https://github.com/ZjChenyk/web-wechat-2017/blob/master/1514080901104/ItBook/images/%E5%B0%8F%E7%A8%8B%E5%BA%8F%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg)
+![image](https://github.com/chenyonken/ITBooks/blob/master/images/%E5%B0%8F%E7%A8%8B%E5%BA%8F%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg)
 ---
 小程序创意说明：简单实现计算机学科电子书籍资源的共享
 ---
@@ -14,16 +14,16 @@ upload页面：提供网友上传共享资源的界面，目前因服务器原�
 小程序主要页面截图
 ---
 index页面
-![image](https://github.com/ZjChenyk/web-wechat-2017/blob/master/1514080901104/ItBook/images/index.PNG)
+![image](https://github.com/chenyonken/ITBooks/blob/master/images/index.PNG)
 ---
 upload页面
-![image](https://github.com/ZjChenyk/web-wechat-2017/blob/master/1514080901104/ItBook/images/upload.PNG)
+![image](https://github.com/chenyonken/ITBooks/blob/master/images/upload.PNG)
 ---
 morebook页面
-![image](https://github.com/ZjChenyk/web-wechat-2017/blob/master/1514080901104/ItBook/images/morebook.PNG)
+![image](https://github.com/chenyonken/ITBooks/blob/master/images/morebook.PNG)
 ---
 download页面
-![image](https://github.com/ZjChenyk/web-wechat-2017/blob/master/1514080901104/ItBook/images/download.PNG)
+![image](https://github.com/chenyonken/ITBooks/blob/master/images/download.PNG)
 ---
 
  
